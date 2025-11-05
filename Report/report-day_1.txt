@@ -1,0 +1,14 @@
+Day 1 — Project setup & authorization
+
+Objective: Define scope, get authorization, set up repo and trackers.
+Tasks:
+
+Draft scope & authorization template (targets, in-scope endpoints, out-of-scope, contact).
+
+Save written authorization for every target.
+
+Create project repo (Git) and folder structure: /lab, /notes, /screenshots, /sqlmap-output, /report.
+
+github repo:
+https://github.com/arunpandi2003/Sqlmap-SQLI.git
+
